@@ -1,0 +1,6 @@
+{
+  "name": "Centrales Électriques",
+  "description": "Découvrez les différents types de centrales électriques, leurs caractéristiques techniques, et simulez leur fonctionnement et leur impact sur le mix énergétique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
